@@ -4,6 +4,9 @@
  Name : Zakarie Mohamed Isack
  ID :C119171
  CLASS: CA193
+ 
+ [LOGIN INFORMATION.txt](https://github.com/zakariemo/Faliir-Furnature/files/10610763/LOGIN.INFORMATION.txt)
+
 
 ![Login page](https://user-images.githubusercontent.com/116520949/216814849-b4660433-f242-4e0d-b31b-3c039dbc3057.PNG)
 ![Home Page](https://user-images.githubusercontent.com/116520949/216814856-c602d11f-4dad-4e60-8f91-28dccc33399a.PNG)
