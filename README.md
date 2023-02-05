@@ -1,16 +1,6 @@
 # faliirfurnature
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+![Login page](https://user-images.githubusercontent.com/116520949/216814770-b0952580-67cc-4910-9e10-f3a9f79e6d8d.PNG)
+![resullt](https://user-images.githubusercontent.com/116520949/216814772-c4c65b90-1c4a-4b02-9f76-200720047358.PNG)
+![Home Page](https://user-images.githubusercontent.com/116520949/216814774-b3a99b5e-8b14-423c-b083-00640b869e0f.PNG)
