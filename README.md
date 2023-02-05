@@ -1,6 +1,9 @@
 # faliirfurnature
 
  
-![Login page](https://user-images.githubusercontent.com/116520949/216814770-b0952580-67cc-4910-9e10-f3a9f79e6d8d.PNG)
-![resullt](https://user-images.githubusercontent.com/116520949/216814772-c4c65b90-1c4a-4b02-9f76-200720047358.PNG)
-![Home Page](https://user-images.githubusercontent.com/116520949/216814774-b3a99b5e-8b14-423c-b083-00640b869e0f.PNG)
+ 
+[My name id class.txt](https://github.com/zakariemo/Faliir-Furnature/files/10610757/My.name.id.class.txt)
+
+![Login page](https://user-images.githubusercontent.com/116520949/216814849-b4660433-f242-4e0d-b31b-3c039dbc3057.PNG)
+![resullt](https://user-images.githubusercontent.com/116520949/216814852-42885b98-76fc-4b50-8cb6-daa7e6e52b41.PNG)
+![Home Page](https://user-images.githubusercontent.com/116520949/216814856-c602d11f-4dad-4e60-8f91-28dccc33399a.PNG)
