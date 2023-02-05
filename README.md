@@ -1,8 +1,9 @@
 # faliirfurnature
 
  
- 
-[My name id class.txt](https://github.com/zakariemo/Faliir-Furnature/files/10610757/My.name.id.class.txt)
+ Name : Zakarie Mohamed Isack
+ ID :C119171
+ CLASS: CA193
 
 ![Login page](https://user-images.githubusercontent.com/116520949/216814849-b4660433-f242-4e0d-b31b-3c039dbc3057.PNG)
 ![resullt](https://user-images.githubusercontent.com/116520949/216814852-42885b98-76fc-4b50-8cb6-daa7e6e52b41.PNG)
