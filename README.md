@@ -5,7 +5,10 @@
  ID :C119171
  CLASS: CA193
  
- [LOGIN INFORMATION.txt](https://github.com/zakariemo/Faliir-Furnature/files/10610763/LOGIN.INFORMATION.txt)
+ Login Information
+ 
+ Email : zaki@gmail.com
+ Password: 12345
 
 
 ![Login page](https://user-images.githubusercontent.com/116520949/216814849-b4660433-f242-4e0d-b31b-3c039dbc3057.PNG)
